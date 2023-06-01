@@ -10,21 +10,7 @@ function Resume() {
         </a>
       </div>
       <div>
-        <h3>Education</h3>
-        <ul>
-          <li>
-            Certification in Web Development, UC BerkeleyExtension Bootcamp
-          </li>
-        </ul>
-      </div>
-      <div>
-        <h3>Work Experience</h3>
-        <ul>
-          <li></li>
-        </ul>
-      </div>
-      <div>
-        <h3>Skills</h3>
+        <h3>Proficiencies</h3>
         <ul>
           <li>HTML</li>
           <li>CSS</li>
@@ -36,10 +22,6 @@ function Resume() {
           <li>Testing (Jest)</li>
           <li>Version Control (Git)</li>
         </ul>
-      </div>
-      <div>
-        <h3>References</h3>
-        <p>Available upon request</p>
       </div>
     </section>
   );

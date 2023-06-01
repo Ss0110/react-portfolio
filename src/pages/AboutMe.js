@@ -1,13 +1,13 @@
 import React from "react";
-import Avatar from "src/assets/images/avatar.png";
+import Avatar from "../assets/images/avatar.png";
 
 function AboutMe() {
   return (
     <section>
-      <h2>About Me</h2>
+      <h2 className="left-align">About Me</h2>
       <div>
-        <img src={Avatar} alt="avatar" />
-        <p>
+        <img className="avatar-image" src={Avatar} alt="avatar" />
+        <p className="paragraph">
           Hi, I'm Saray Sanchez, a full stack web development coding bootcamp
           student. Ever since I started learning about web development, I have
           been fascinated by the endless possibilities and potential that this
